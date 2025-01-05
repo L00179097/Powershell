@@ -95,7 +95,7 @@ The input CSV file must have the following columns:
 ```csv
 Firstname,Lastname,Username,Department,Password,OU
 Sathish,Kumar,L00179097,PGDipCLOD2024,Passw0rd,"OU=User,OU=PGDipCLOD2024,DC=atu,DC=sathish,DC=com"
-Preetha,Ramesh,L00179097,PGDipCLOD2024,Passw0rd,"OU=User,OU=PGDipCLOD2024,DC=atu,DC=preetha,DC=com"
+
 
 ```
 The CSV file should be placed at `C:\PowerShell\CLOUDSTUDENTS.csv`.
