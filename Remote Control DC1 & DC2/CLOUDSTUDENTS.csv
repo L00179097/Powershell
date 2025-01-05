@@ -1,0 +1,3 @@
+Firstname,Lastname,Username,Department,Password,OU
+Sathish,Kumar,L00179097,PGDipCLOD2024,Passw0rd,"OU=User,OU=PGDipCLOD2024,DC=atu,DC=sathish,DC=com"
+Preetha,Ramesh,L00179097,PGDipCLOD2024,Passw0rd,"OU=User,OU=PGDipCLOD2024,DC=atu,DC=preetha,DC=com"
